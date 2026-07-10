@@ -1,4 +1,4 @@
-# Internship Project - Personal Portfolio Website
+# Internship Projects
 
 ## 📌 Project Overview
 This project is a responsive Personal Portfolio Website developed as part of my internship. It showcases my profile, educational background, technical skills, projects, and contact information using modern web development technologies.
