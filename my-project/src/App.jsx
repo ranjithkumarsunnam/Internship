@@ -9,9 +9,12 @@ function App(){
       <Header/>
       <Form/>
 
-      <Button/>
+      <Button text="Login"/><br></br>
+      <Button text="Register"/><br></br>
+      <Button text="Submit"/>
 
-      <Card/>
+      <Card name="Ranjith Kumar" age={20}/>
+      
 
       <Footer/>
       

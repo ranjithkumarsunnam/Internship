@@ -1,6 +1,6 @@
-function Button(){
+function Button(props){
     return(
-        <button type="reset">Reset</button>
+        <button>{props.text}</button>
     )
 }
 export default Button;

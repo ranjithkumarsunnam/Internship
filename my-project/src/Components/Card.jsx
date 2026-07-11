@@ -1,8 +1,8 @@
-function Card(){
+function Card(props){
     return(
         <div>
-            <h2>Ranjith Kumar</h2>
-            <p> B.tech 4th Year</p>
+            <h2>Name:{props.name}</h2>
+            <p>Age:{props.age}</p>
             <button>View Profile</button>
         </div>
 
