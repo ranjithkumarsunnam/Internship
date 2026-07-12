@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e0f2fe"/>
+  <rect x="60" y="70" width="680" height="360" rx="24" fill="#ffffff"/>
+  <circle cx="240" cy="250" r="90" fill="#2563eb" opacity="0.9"/>
+  <circle cx="560" cy="250" r="90" fill="#60a5fa" opacity="0.9"/>
+  <path d="M250 180c60-50 140-50 200 0" stroke="#1d4ed8" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <path d="M250 320c60 50 140 50 200 0" stroke="#1d4ed8" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <text x="400" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" fill="#0f172a">React</text>
+</svg>

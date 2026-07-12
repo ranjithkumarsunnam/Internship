@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React",
+    "author": "Ava",
+    "image": "/images/react.svg",
+    "date": "2026-07-12",
+    "description": "Learn the basics of React components, props, and state."
+  },
+  {
+    "id": 2,
+    "title": "Why JavaScript Matters",
+    "author": "Noah",
+    "image": "/images/javascript.svg",
+    "date": "2026-07-11",
+    "description": "JavaScript powers modern web applications and interactive user experiences."
+  },
+  {
+    "id": 3,
+    "title": "Designing Clean UI",
+    "author": "Mia",
+    "image": "/images/ui.svg",
+    "date": "2026-07-10",
+    "description": "Simple and clean design helps users understand your app faster."
+  },
+  {
+    "id": 4,
+    "title": "Mastering State in React",
+    "author": "Liam",
+    "image": "/images/react.svg",
+    "date": "2026-07-09",
+    "description": "State management is key to building interactive React applications."
+  }
+]

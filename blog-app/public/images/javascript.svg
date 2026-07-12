@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#fef3c7"/>
+  <rect x="70" y="70" width="660" height="360" rx="24" fill="#ffffff"/>
+  <rect x="140" y="130" width="180" height="220" rx="18" fill="#f59e0b"/>
+  <rect x="360" y="130" width="300" height="220" rx="18" fill="#111827"/>
+  <text x="210" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="56" fill="#ffffff">JS</text>
+  <text x="510" y="245" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" fill="#fbbf24">{} </text>
+  <text x="400" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="#78350f">JavaScript</text>
+</svg>
