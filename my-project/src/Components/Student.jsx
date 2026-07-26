@@ -17,7 +17,7 @@ function Student(props){
             <h2> 🧑‍🎓Status:{status}</h2>
             <div className="Buttons">
 
-            <button className="likeBtn" onClick={()=>setLike(like+1)}>👍Like</button>
+            <button className="likeBtn" onClick ={()=>setLike(like+1)}>👍Like</button>
             <button className="statusBtn" onClick={()=>setStatus(status === "Offilne" ? "Online" : "Offilne")}>Change Status </button>
         </div>
         </div>
